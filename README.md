@@ -1,2 +1,2 @@
 # Restoration-Collaboration
-This is a website for a fake company.
+This is an unfinished website for a made-up company.
